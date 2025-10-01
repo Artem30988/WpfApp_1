@@ -41,7 +41,7 @@ namespace WpfApp_1
                 MessageBox.Show("Введите корректные размеры матрицы (целые числа > 0)");
             }
         }
-
+        //ieurhgui
         private void Clear_Click(object sender, RoutedEventArgs e)
         {
             // Полностью удаляем матрицу
