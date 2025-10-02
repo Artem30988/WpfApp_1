@@ -42,6 +42,7 @@ namespace WpfApp_1
             }
         }
         //ieurhgui
+        //ygsdgidgv
         private void Clear_Click(object sender, RoutedEventArgs e)
         {
             // Полностью удаляем матрицу
